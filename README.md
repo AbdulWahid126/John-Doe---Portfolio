@@ -7,7 +7,7 @@ This is a frontend-only project showcasing basic web development skills and best
 
 ## 📸 Live Demo
 
-> Coming soon... (deploy it easily with [Vercel]([https://vercel.com](https://john-doe-portfolio-plum.vercel.app/)))
+> (deploy it easily with [Vercel]([https://vercel.com](https://john-doe-portfolio-plum.vercel.app/)))
 
 ---
 
