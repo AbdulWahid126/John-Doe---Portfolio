@@ -1,3 +1,56 @@
+# 🌐 Personal Portfolio – Static Website
+
+A clean and responsive **John Doe -  portfolio website** built using **Next.js**, **TypeScript** and **Tailwind CSS**.  
+This is a frontend-only project showcasing basic web development skills and best practices.
+
+---
+
+## 📸 Live Demo
+
+> Coming soon... (deploy it easily with [Vercel](https://vercel.com))
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **Next.js 14 (App Router)**
+- 🟦 **TypeScript**
+- 🎨 **Tailwind CSS v4**
+- 🎞 **GSAP** – for smooth scroll animations
+- 💡 **Lucide React Icons**
+- 💬 **React Hooks** (state, useEffect)
+- 🖋 **Google Fonts (Inter)** via `next/font/google`
+
+---
+
+## 📁 Features
+
+✅ Responsive layout (mobile + desktop)  
+✅ Scroll animations using GSAP  
+✅ Smooth scrolling to sections  
+✅ Custom scroll-to-top button  
+✅ Interactive contact form (alert popup)  
+✅ Font and icon integration  
+✅ Clean, professional design
+
+---
+
+## 🧱 Sections Included
+
+| Section       | Description                                                  |
+|---------------|--------------------------------------------------------------|
+| **Header**     | Navigation bar with smooth scroll to each section            |
+| **About Me**   | Your image + short bio with a 2-column layout                |
+| **Skills**     | Grid of skill cards with hover effects                       |
+| **Hobbies**    | Emoji/icon-based list in horizontal scroll                   |
+| **Contact Form** | Name, Email, Message — triggers a thank-you popup on submit |
+
+---
+
+## 📂 Folder Structure
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
