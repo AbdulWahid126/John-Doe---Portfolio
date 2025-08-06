@@ -1,6 +1,7 @@
 "use client"
 
 import { MapPin, Mail, Calendar, Award } from "lucide-react"
+import Image from "next/image"
 
 export default function About() {
   return (
@@ -12,9 +13,11 @@ export default function About() {
           {/* Profile Image */}
           <div className="animate-slide-in-left">
             <div className="relative">
-              <img
-                src="/devv.jpg?height=500&width=500&text=Profile+Photo"
+              <Image
+                src="/devv.jpg?"
                 alt="John Doe Profile"
+                width={500}
+                height={500}
                 className="rounded-2xl shadow-2xl w-full max-w-md mx-auto"
               />
               <div className="absolute -bottom-6 -right-6 bg-blue-500 text-white p-4 rounded-xl shadow-lg">
@@ -28,13 +31,13 @@ export default function About() {
             <h3 className="text-3xl font-bold mb-6 text-slate-900">Passionate Developer & Creative Problem Solver</h3>
 
             <p className="text-lg text-slate-600 mb-6 leading-relaxed">
-              I'm a full-stack developer with over 3 years of experience creating beautiful, functional web
+              I am a full-stack developer with over 3 years of experience creating beautiful, functional web
               applications. I specialize in React, Next.js, and modern web technologies, with a keen eye for UI/UX
               design.
             </p>
 
             <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-              When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects,
+              When I am not coding, you will find me exploring new technologies, contributing to open-source projects,
               mentoring junior developers, or sharing my knowledge with the developer community through blog posts and
               speaking engagements.
             </p>

@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="container">
         <div className="text-center animate-fade-in-up">
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6">
-            Hi, I'm <span className="text-blue-400">John Doe</span>
+            Hi, I am <span className="text-blue-400">John Doe</span>
           </h2>
           <p className="text-xl md:text-2xl mb-8 text-slate-300 max-w-3xl mx-auto">
             Full Stack Developer & UI/UX Designer passionate about creating beautiful, functional web experiences

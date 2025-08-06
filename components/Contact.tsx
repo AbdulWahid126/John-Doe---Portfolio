@@ -43,9 +43,9 @@ export default function Contact() {
         <div className="grid lg:grid-cols-2 gap-12">
           {/* Contact Info */}
           <div className="animate-slide-in-left">
-            <h3 className="text-2xl font-bold mb-6">Let's Connect</h3>
+            <h3 className="text-2xl font-bold mb-6">Lets Connect</h3>
             <p className="text-slate-300 mb-8 text-lg leading-relaxed">
-              I'm always interested in new opportunities and exciting projects. Whether you have a question or just want
+              I am always interested in new opportunities and exciting projects. Whether you have a question or just want
               to say hi, feel free to reach out!
             </p>
 
@@ -162,7 +162,7 @@ export default function Contact() {
                 <CheckCircle className="w-8 h-8 text-green-500" />
               </div>
               <h3 className="text-2xl font-bold text-slate-800 mb-2">Thank You!</h3>
-              <p className="text-slate-600">Thank you for your message! I'll get back to you as soon as possible.</p>
+              <p className="text-slate-600">Thank you for your message! I ll get back to you as soon as possible.</p>
             </div>
           </div>
         )}
